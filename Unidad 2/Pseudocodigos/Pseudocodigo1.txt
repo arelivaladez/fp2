@@ -1,0 +1,19 @@
+/*
+Mi primer pseudocodigo
+Areli Valadez
+ITPA
+TICS
+
+Programa que imprimee un nombre que capturamos
+
+*/
+
+Algoritmo Imprimir-Nombre;
+Var
+	CARACTER minombre
+INICIO 
+	ESCRIBIR("¿Cual es el nombre?")
+	LEER (minombre);
+	Escribir(minombre);
+FIN
+
