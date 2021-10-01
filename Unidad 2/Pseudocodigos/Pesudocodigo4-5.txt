@@ -1,0 +1,33 @@
+/*
+Pseudocodigo4-5
+Areli Valadez
+ITPA
+TICS
+
+Programa que imprime nombre y apellidos en una region
+
+*/
+
+VAR
+
+	CARACTER(Nombre);
+	CARACTER(Apellido);
+
+Array Nombre-apellido
+	NombreCompleto -> [Nombre, Apellidos];
+	CARACTER NombreCompleto;
+	NombreCompleto -> Nombre, Apellidos;
+
+INICIO
+	ESCRIBIR("Escribir nombre");
+	LEER(Nombre);
+	ESCRIBIR("Escribir apellidos");
+	LEER(Apellidos);
+	Escribir (NombreCompleto);
+
+IF
+IF Escribir
+	print(Escribir);
+	print(NombreCompleto);
+
+FIN

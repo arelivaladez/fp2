@@ -1,0 +1,21 @@
+/*
+Pseudocodigo3-5
+Areli Valadez 
+ITPA
+TICS
+
+Programa que pide un numero y da el cuadrado con una funcion
+
+*/
+
+VAR
+	INT numero;
+
+INICIO
+	ESCRIBIR("Escribir numero");
+	LEER(numero);
+	sqr(nuemro);
+
+	ESCRIBIR("El resultado es:" sqr);
+
+	FIN
