@@ -1,0 +1,34 @@
+/* 
+Pseudocodigo5.5 
+Practica2.2
+Areli Valadez
+ITPA
+
+Programa que pida nombre y edad y que imprima la persona más grande.
+
+*/
+
+Algoritmo NombreyEdadMayor
+
+VAR
+	CARACTER(NombreCompleto1);
+	CARACTER(NombreCompleto2);
+	INT(Edad1);
+	INT(Edad2);
+
+INICIO
+	ESCRIBIR("Dame el nombre");
+	LEER(NombreCompleto1);
+	ESCRIBIR("Dar la edad");
+	LEER(Edad1);
+	ESCRIBIR("Dame el 2do nombre");
+	LEER(NombreCompleto2);
+	ESCRIBIR("Dar la edad");
+	LEER(Edad2);
+
+IF Edad1 < Edad2
+	Escribir(Nombre1, Edad1);
+IF Edad1 > Edad2
+	Escribir(Nombre2, Edad2);
+
+FIN

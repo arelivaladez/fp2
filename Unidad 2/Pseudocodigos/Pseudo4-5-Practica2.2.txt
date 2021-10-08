@@ -1,0 +1,37 @@
+/* 
+Pseudocodigo3.5 
+Practica2.2
+Areli Valadez
+ITPA
+
+Programa que pida calificaiones y muestre si esta aprobado o reprobado
+
+*/
+
+Algoritmo Imprimirsiestaaprobadooreprobado
+
+VAR
+	CARACTER("Apellidos");
+	CARACTER("Nombre");
+	FLOAT(Calir.1);
+	FLOAT(Calif.2);
+	FLOAT(Calif.3);
+
+INICIO
+	ESCRIBIR ("Apellidos");
+	LEER(Apellido);
+	ESCRIBIR("Nombre");
+	LEER(Nombre);
+	ESCRIBIR("Calificacion1");
+	LEER(Calif.1);
+	ESCRIBIR("Calificacion2");
+	LEER(Calif.2);
+	ESCRIBIR("Calificacion3");
+	LEER(Calif.3);
+
+IF
+IF (Calif.1 + Calif.2 + Calif.3 / 3) > 7
+	Escribir(Apellido, Nombre, "Aprobado");
+IF (Calif.1 + Calif.2 + Calif.3 / 3) < 6 
+	Escribir(Apellido, Nombre, "Reprobado");
+FIN

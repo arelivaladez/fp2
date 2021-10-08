@@ -1,0 +1,26 @@
+/*
+Pseudocodigo1.5 
+Practica2.2
+Areli Valadez
+ITPA
+
+Programa que pida 3 numeros e imprima el numero mayor
+
+*/
+
+Algoritmo Imprimeelnumeromayor
+VAR
+	INT numero1;
+	INT numero2;
+	INT numero3;
+
+INICIO
+	ESCRIBIR ("Colocar los 3 numeros");
+	LEER(numero1);
+	LEER(numero2);
+	LEER(numero3);
+IF
+	IF si el numero3 es mayor que el numero1 entonses imprimir su valor
+	IF numero3 > numero1;
+Imprimir(numero3)
+FIN

@@ -1,0 +1,21 @@
+/* 
+Pseudocodigo3.5 
+Practica2.2
+Areli Valadez
+ITPA
+
+Programa que pide un numero e imprime su nombre la cantidad de veces
+
+*/
+
+Algoritmo imprimirelnombredelnumerolacantidaddevecesadelnumero
+
+VAR
+	INT numero5
+
+INICIO 
+	ESCRIBIR("¿Cual es el numero?");
+	LEER(numero5);
+	ESCRIBIR(numero5);
+
+FIN

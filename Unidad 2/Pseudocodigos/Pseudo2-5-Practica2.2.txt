@@ -1,0 +1,28 @@
+/*
+Pseudocodigo3-5
+Practica2.2
+Areli Valadez
+ITPA
+
+Programa que te de 5 opciones de pelicula y al momento de seleccionar  una imprima el nombre 
+
+*/
+
+Algoritmo imprimirelnombredeunapelicula
+
+VAR 
+	ENTERO a;
+
+INICIO
+	ESCRIBIR("Indroce un numero del 1 al 5");
+	LEER(a);
+
+SI (a >=2)	AND (a <= 8)
+EN CASO DE a HACER
+	1: ESCRIBIR("A dos metros de ti");
+	2: ESCRIBIR("Rapidos y furiosos 8");
+	3: ESCRIBIR("Bajo la misma estrella");
+	4: ESCRIBIR("Gigantes de acero");
+	5: ESCRIBIR("Karate kid");
+
+FIN
