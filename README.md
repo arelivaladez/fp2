@@ -27,16 +27,16 @@ Nos permiten dividir el trabajo realizado por el programa en las tareas más peq
 *Clase*:
 Una clase (en programación) es un conjunto de datos (actividades benéficas o campos) y funciones (métodos) que operan sobre estos datos. Estos datos y funciones que pertenecen a la clase se denominan variables, y los métodos o funciones que pertenecen a la clase se denominan variables y métodos. Programación orientada a objetos.
 
-*Estructura de control*
+*Estructura de control*:
 Permiten modificar el flujo de ejecución de las instrucciones del programa. Todas las estructuras tienen un punto de entrada y un punto de salida.
 
-*Tipos de datos*
+*Tipos de datos*:
 INT -> Para los numeros
 CHAR -> Palabra los numeros
 BOOLEANO -> Falso o Verdadero
 FLOAT -> Es unn tipo de dato abstracto compuesto de una coleccion de operaciones sobre un conjunto 
 
-*Operaciones*
+*Operaciones*:
 Suma +;
 Resta -;
 Multiplicar * ;
@@ -52,5 +52,5 @@ AND
 OR
 contador
 
-*Constructores*
+*Constructores*:
 El constructor es una subrutina cuya tarea es inicializar un objeto de una clase. Al constructor se le asigna el valor inicial del nuevo objetivo.
