@@ -54,3 +54,4 @@ contador
 
 *Constructores*:
 El constructor es una subrutina cuya tarea es inicializar un objeto de una clase. Al constructor se le asigna el valor inicial del nuevo objetivo.
+
